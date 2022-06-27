@@ -1,6 +1,6 @@
   ## Hi there 👋 
 
-      *  I'm Vinnícius Cedraz Ribeiro and in this readme you'll find some information about me.
+      *  I'm Vinnícius Cedraz Ribeiro and in this readme you'll find some information about me
 
   ## Relevant Information
 
@@ -32,5 +32,5 @@
       *  Therefore, .sh was not a reference to that .sh thingy 
       *  It was just a (fun maybe?) coincidence
       *  Now, what the .sh actually stood for is a story I reserve only for more informal conversations.
--
+
 
