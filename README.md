@@ -22,7 +22,6 @@
  ## Contact Information
 
       *  Linkedin: https://www.linkedin.com/in/vinn%C3%ADcius-ribeiro-368180a8/.
-      *  Instagram: instagram.com/vinniciuscedraz/
       *  Most used e-mail: planetexpress0101@gmail.com
       *  Oldest and least used e-mail: vinni.sh@hotmail.com (please don't contact me here)
 
